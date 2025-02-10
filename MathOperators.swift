@@ -1,7 +1,7 @@
 //
 //  MathOperators.swift
 //
-//  Created by Remy Skelton 
+//  Created by Remy Skelton
 //  Created on 2025-February-07
 //  Version 1.0
 //  Copyright (c) Remy Skelton. All rights reserved.
